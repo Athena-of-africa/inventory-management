@@ -1,0 +1,6 @@
+{
+  "name": "Smart Fridge",
+  "description": "Collaborative family smart refrigerator tracker: log in, form households, manage users, and collaboratively update food items and scan barcodes with real-time sync simulation and transaction logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

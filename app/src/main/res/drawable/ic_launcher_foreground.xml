@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Sophisticated Refrigerator Outline with Custom Laser Scan glow -->
+    <path
+        android:fillColor="#E6FFFFFF"
+        android:pathData="M38,24 h32 c3.3,0 6,2.7 6,6 v48 c0,3.3 -2.7,6 -6,6 h-32 c-3.3,0 -6,-2.7 -6,-6 v-48 c0,-3.3 2.7,-6 6,-6 z" />
+        
+    <!-- Charcoal details: splits the freezer/fridge doors and adds handle grips -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="2"
+        android:fillColor="#00000000"
+        android:pathData="M32,45 h44" />
+        
+    <path
+        android:strokeColor="#0D9488"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M66,32v6M66,51v16" />
+
+    <!-- A decorative glowing ring or laser scan badge looping over the fridge to signify scanner technology -->
+    <path
+        android:strokeColor="#059669"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M24,54 c0,-14.3 13.4,-26 30,-26 c16.6,0 30,11.7 30,26 c0,14.3 -13.4,26 -30,26" />
+        
+</vector>
